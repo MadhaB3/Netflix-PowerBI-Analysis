@@ -1,0 +1,13 @@
+Netflix-PowerBI-Analysis/
+│
+├── Dataset/
+│   └── netflix_titles.csv
+│
+├── PowerBI/
+│   └── Netflix_Analysis.pbix
+│
+├── Screenshots/
+│   ├── dashboard_overview.png
+│   └── insights.png
+│
+├── README.md
